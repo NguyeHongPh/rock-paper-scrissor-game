@@ -1,7 +1,6 @@
 ---
-author: Dua Tran
+author: Nguyen Hong Phuc
 title: Rock-Paper-Scissor game
-id: rock_paper_scissor_game_trancaodua
 ---
 
 # Rock Paper Scissors Game
