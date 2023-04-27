@@ -49,7 +49,7 @@ export default function Main() {
         <Result
           user1GameItem={userGameItem}
           user2GameItem={computerGameItem}
-          result={"result"}
+          result={result}
         />
         <Display />
         <Choices
